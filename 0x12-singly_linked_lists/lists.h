@@ -15,7 +15,7 @@
  * for ALX project
  */
 
-struct list_s
+typedef struct list_s
 {
 	char *str;
 	unsigned int len;
